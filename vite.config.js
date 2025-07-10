@@ -11,7 +11,7 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: '/resume-website/' //process.env.NODE_ENV === 'production' ? '/resume-website/' : '/',
+  base: '/' //process.env.NODE_ENV === 'production' ? '/resume-website/' : '/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
