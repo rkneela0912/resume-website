@@ -237,7 +237,7 @@ function App() {
               Microsoft Certified Solutions Architect | AI Enablement Engineer
             </h2>
             <p className="hero-description">
-              Specializing in SharePoint Development, Power Platform, Microsoft Copilot, and Conversational AI Solutions
+              Specializing in Power Platform, and Conversational AI Solutions (Microsoft Copilot, Azure Bot Framework) , Azure and SharePoint Development.
             </p>
             <div className="hero-buttons">
               <button onClick={() => scrollToSection('contact')} className="btn-primary">
@@ -291,7 +291,7 @@ function App() {
               company="Department of Defense - Washington Headquarters Services"
               description="Leading AI enablement initiatives and Copilot development. Architected custom Microsoft Copilot agents achieving 40% improvement in task completion accuracy. Implemented enterprise-grade conversational AI solutions using Azure Bot Framework."
               achievements={[
-                "🎯 Power Apps Development: Built 15+ Canvas Apps with complex business logic, created 8 Model-driven Apps with custom entities and business process flows",
+                "🎯 Power Apps Development: Built 30+ Canvas Apps with complex business logic, created 15+ Model-driven Apps with custom entities and business process flows",
                 "🔗 SharePoint Integration: Developed SPFx web parts with React/TypeScript, integrated Power Apps with SharePoint lists and document libraries",
                 "💾 Dataverse Solutions: Designed custom tables, relationships, and security roles; implemented complex business rules and calculated fields",
                 "🔌 Custom Connectors: Built 12+ custom connectors for legacy systems integration, API management with authentication and error handling",
