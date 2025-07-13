@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { ChevronDown, Mail, Phone, Globe, MapPin, Download, MessageCircle, X, Send, Star, Code, Database, Cloud, Zap, Brain, Bot, Shield, Layers } from 'lucide-react';
-import profileImage from './assets/profile.png';
 import ChatbotEngine from './components/ChatbotEngine';
 import './App.css';
 
@@ -252,7 +251,7 @@ function App() {
           </div>
           <div className="hero-image">
             <div className="profile-container">
-              <img src={profileImage} alt="Ranjith Neela" className="profile-image" />
+            <img src="/resume-website/assets/profile.png" alt="Ranjith Neela" className="profile-image" />
               <div className="profile-glow"></div>
             </div>
           </div>
