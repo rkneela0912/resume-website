@@ -2,7 +2,7 @@
 
 A modern, interactive resume website built with React, featuring an AI-powered chatbot and comprehensive skill showcases. This website demonstrates expertise in SharePoint development, Power Platform, AI enablement engineering, and conversational AI solutions.
 
-## 🌟 Features
+## 🌟 Features website
 
 - **Modern Design**: Professional, responsive design with smooth animations and hover effects
 - **AI Chatbot**: Interactive chatbot that answers questions about experience and qualifications
